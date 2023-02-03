@@ -1,3 +1,3 @@
 # TicTacToe
 Created by endulum.
-practice typing TicTacToe Project
+Typing practice of TicTacToe Project.
